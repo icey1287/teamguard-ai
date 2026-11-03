@@ -1,0 +1,15 @@
+[project]
+name = "teamguard-ai"
+version = "0.3.1"
+description = "Policy-aware SQL review"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "httpx>=0.28,<0.29",
+    "pydantic>=2.14,<3",
+    "python-dotenv>=1.2,<2",
+    "sqlglot>=30.23,<31",
+    "streamlit>=1.66,<2",
+]
+
+[tool.uv]
+package = false
