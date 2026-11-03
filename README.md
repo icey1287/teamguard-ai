@@ -31,6 +31,7 @@ Open **http://127.0.0.1:8501**, create a project with your schema and rules, the
 | [Local setup](docs/LOCAL_SETUP.md) | Installation, model configuration, startup and backup |
 | [System design](docs/ARCHITECTURE.md) | Components, review flow and data model |
 | [Presentation guide](docs/SHOWCASE.md) | Live walkthrough and technical explanation |
+| [Recorded system demo (MP4)](TeamGuard_AI_Demo.mp4) | 2 min 39 s continuous walkthrough with visible cursor: project setup, SQL review, revisions, decisions, re-review and history |
 | [Evaluation report (PDF)](reports/evaluation-2026-11-03.pdf) | Historical benchmark methods, results and failures |
 | [Review records (PDF)](reports/reviews-2026-11-03.pdf) | Four historical review records with inputs and findings |
 
